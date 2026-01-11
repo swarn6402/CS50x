@@ -4,4 +4,6 @@ Feel free to go through all the files and use/learn as you like.
 
 I had always wanted to complete this renowned course, and do it properly in a way that all of my learning is documented and open-source.
 
-Cheers x
+Hope to have some great lessons and learnings along the way.
+
+~ Swarn
